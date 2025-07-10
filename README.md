@@ -17,7 +17,7 @@ This project implements real-time **monocular depth estimation** using Intel's *
 
 
 ### 📁 Project Structure
-.
+
 ├── script_midas.py       # Main Python script for real-time depth estimation
 └── README.md             # Project documentation
 
